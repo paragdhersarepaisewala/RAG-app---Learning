@@ -1,0 +1,28 @@
+# Core Framework
+langchain
+langchain-community
+langchain-text-splitters
+dotenv
+
+# Model Integrations
+langchain-google-genai
+langchain-groq
+langchain-nvidia-ai-endpoints
+langchain-mistralai
+langchain-huggingface
+huggingface_hub
+
+# Vector Stores
+chromadb
+faiss-cpu
+
+# Document Processing & Utilities
+pypdf
+unstructured[all-docs]
+tiktoken
+sentence-transformers
+python-dotenv
+
+# Performance & Hardware
+torch
+accelerate
